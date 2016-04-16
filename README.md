@@ -40,7 +40,6 @@
 * ##### 方法声明
 	```
 	+ (CGFloat)widthOfLabelWithString:(NSString *)string sizeOfFont:(CGFloat)fontSize height:(CGFloat)height;
-	
 	```
 
 * ##### 参数列表
@@ -65,7 +64,6 @@
 * ##### 方法声明
 	```
 	+ (CGFloat)heightOfLabelWithString:(NSString *)string sizeOfFont:(CGFloat)fontSize width:(CGFloat)width edge:(UIEdgeInsets)edge;
-	
 	```
 
 * ##### 参数列表
@@ -91,7 +89,6 @@
 * ##### 方法声明
 	```
 	+ (CGFloat)widthOfLabelWithString:(NSString *)string sizeOfFont:(CGFloat)fontSize height:(CGFloat)height edge:(UIEdgeInsets)edge;
-	
 	```
 
 * ##### 参数列表
